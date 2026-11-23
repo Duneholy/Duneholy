@@ -10,15 +10,15 @@
 
 Born in Moscow. Eight years of shipping products, from my own startups to a corporate portfolio. Expert in gamification and UX. Obsessed with psychology and decision-making.
 
-- 2015. Bachelor's degree, Law, Moscow State Industrial University (MSIU)
-- 2020. Neural Network Technologies course, MIPT
-- 2021 - 2025. Product training: School of Education, Product Star, AJTBD by Ivan Zamesin
-- 2020 - 2022. Worked as a Product Manager @ NextED
-- 2022 - 2023. Launched a startup, Boundless Education
-- 2023 - 2024. Worked as a Product Manager @ [Phoenix Education](https://www.phoenix.education)
-- 2023 - 2026. Worked as a Product Owner @ [Rocket Tech School](https://www.rts.school/en)
-- 2025 - 2026. Worked as a Product Owner @ Sber Education
-- 2026 - now. Building my own products, open to new projects
+- 2015        | Bachelor's degree, Law, Moscow State Industrial University (MSIU)
+- 2020        | Neural Network Technologies course, MIPT
+- 2021 - 2025 | Product training: School of Education, Product Star, AJTBD by Ivan Zamesin
+- 2020 - 2022 | Worked as a Product Manager @ NextED
+- 2022 - 2023 | Launched a startup, Boundless Education
+- 2023 - 2024 | Worked as a Product Manager @ [Phoenix Education](https://www.phoenix.education)
+- 2023 - 2026 | Worked as a Product Owner @ [Rocket Tech School](https://www.rts.school/en)
+- 2025 - 2026 | Worked as a Product Owner @ Sber Education
+- 2026 - now  | Building my own products, open to new projects
 
 ## 🛠️ Pet projects
 
